@@ -1,10 +1,10 @@
-# 👋 Hola, soy Valentin
+# Hola, soy Valentin Antonio De Gennaro
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma en CEACFP Valencia.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma | CEACFP Valencia  
 
 ---
 
-## 🛠️ Tecnologías y lenguajes
+## Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
@@ -12,7 +12,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma en CEACFP Valencia.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=radical)  
 
