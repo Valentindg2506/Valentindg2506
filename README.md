@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentin%Antonio%De%Gennaro&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentín&fontSize=80&animation=fadeIn" />
 </div>
 
-<h1 align="center">👋 Hola, soy Valentin</h1>
+<h1 align="center">👋 Hola, soy Valentin Antonio De Gennaro</h1>
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma | CEACFP Valencia  
+<h3 align="center">🎓 Estudiante de DAM en CEACFP Valencia
 
 ---
 
@@ -27,8 +27,5 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma | CEACFP Valencia
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tu%20Nombre&fontSize=80&animation=fadeIn" />
 </div>
 
-<!-- TÍTULO Y SUBTÍTULO -->
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
-<h3 align="center">🎓 Estudiante de DAM en CEACFP Valencia | 💻 Desarrollador Full Stack</h3>
 
 
