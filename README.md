@@ -18,14 +18,10 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=transparent)  
 
 ---
 
-<!-- BANNER ANIMADO (Opcional) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tu%20Nombre&fontSize=80&animation=fadeIn" />
-</div>
 
 
 
