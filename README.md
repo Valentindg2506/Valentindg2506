@@ -6,7 +6,7 @@
 
 ## Lenguajes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinsg2506)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentindg2506)](https://github.com/Valentindg2506/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
