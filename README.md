@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentín&fontSize=80&animation=fadeIn" />
-</div>
-
----
-
 <h1 align="center">👋 Hola, soy Valentin Antonio De Gennaro</h1>
 
 <h3 align="center">🎓 Estudiante de DAM en CEACFP Valencia
