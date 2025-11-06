@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentin Antonio De Gennaro&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentin%Antonio%De%Gennaro&fontSize=80&animation=fadeIn" />
 </div>
 
 <h1 align="center">👋 Hola, soy Valentin</h1>
