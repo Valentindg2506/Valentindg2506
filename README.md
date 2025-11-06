@@ -5,7 +5,8 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma | CEACFP Valencia
 ---
 
 ## Redes sociales
-[![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](www.linkedin.com/in/valentin-antonio-de-gennaro-702a4938b)
+[![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](www.linkedin.com/in/valentin-antonio-de-gennaro)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentindegennaro@gmail.com)
 
 ---
