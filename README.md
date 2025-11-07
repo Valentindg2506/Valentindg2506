@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./image.png" alt="Banner de Valentin Antonio de Gennaro" width="100%">
+</p>
 <h1 align="center">👋 Hola, soy Valentin Antonio De Gennaro</h1>
 
 <h3 align="center">🎓 Estudiante de DAM en CEACFP Valencia
