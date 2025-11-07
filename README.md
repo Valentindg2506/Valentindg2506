@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./BannerGitHub.png" alt="Banner de Valentin Antonio de Gennaro" width="100%">
+  <img src="./banner.png" alt="Banner de Valentin Antonio de Gennaro" width="100%">
 </p>
 <h1 align="center">👋 Hola, soy Valentin Antonio De Gennaro</h1>
 
