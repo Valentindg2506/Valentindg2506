@@ -15,8 +15,8 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi) ![Top lenguajes de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact
-)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi)
+
 
 
 ---
