@@ -15,7 +15,10 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi)![Lenguajes más usados](https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi)
+<p align="left">
+  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi" height="165" alt="Lenguajes más usados" />
+</p>
 
 
 
