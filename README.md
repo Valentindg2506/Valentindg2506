@@ -22,7 +22,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Valencia, Es
 - 📍 Basado en **Valencia, España**
 - 🌱 Actualmente aprendiendo **PHP** en el ciclo DAM
 - 🤖 Explorando **agentes de IA** con modelos locales (Ollama)
-- 📬 Contacto: valentindegennaro@gmail.com
+- 📬 Contacto: info@valentindg.com
 
 ---
 
@@ -33,7 +33,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Valencia, Es
 | [Tinoprop](https://portafolio.valentindg.com) | Aplicación fullstack de gestión | PHP · MySQL |
 | [AdminViews](https://portafolio.valentindg.com) | Panel de administración con integración TMDB API | PHP · MySQL · API REST |
 | [CAS Real State](https://portafolio.valentindg.com) | Web inmobiliaria estática | HTML · CSS · JS |
-| Gestión de Alquileres | App de gestión de habitaciones, pagos, gastos e inquilinos | PHP · MySQL |
+| [RoomManager](https://portafolio.valentindg.com) | App de gestión de habitaciones, pagos, gastos e inquilinos | PHP · MySQL |
 
 ---
 
