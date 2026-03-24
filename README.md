@@ -20,7 +20,7 @@
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Valencia, España. Me apasiona construir aplicaciones web funcionales y explorar el mundo de la **inteligencia artificial** y los **agentes autónomos** como hobby.
 
 - 📍 Basado en **Valencia, España**
-- 🌱 Actualmente aprendiendo **Java** en el ciclo DAM
+- 🌱 Actualmente aprendiendo **PHP** en el ciclo DAM
 - 🤖 Explorando **agentes de IA** con modelos locales (Ollama)
 - 📬 Contacto: valentindegennaro@gmail.com
 
