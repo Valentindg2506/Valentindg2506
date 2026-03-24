@@ -17,12 +17,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Valencia, España. Me apasiona construir aplicaciones web funcionales y explorar el mundo de la **inteligencia artificial** y los **agentes autónomos** como hobby.
-
-- 📍 Basado en **Valencia, España**
-- 🌱 Actualmente aprendiendo **PHP** en el ciclo DAM
-- 🤖 Explorando **agentes de IA** con modelos locales (Ollama)
-- 📬 Contacto: info@valentindg.com
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en CEACFP Valencia, España. Me apasiona construir aplicaciones web funcionales y explorar el mundo de la **inteligencia artificial** y los **agentes autónomos** como hobby. Actualmente aprendiendo **PHP** en el ciclo y experimentando con modelos locales de IA usando **Ollama**. Si quieres ponerte en contacto, puedes hacerlo a través de mi [portafolio](https://portafolio.valentindg.com).
 
 ---
 
