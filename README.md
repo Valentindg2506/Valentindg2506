@@ -2,9 +2,11 @@
   <img src="./banner2.png" alt="Banner de Valentin Antonio de Gennaro" width="100%">
 </p>
 
-<h1 align="center">👋 Hola, soy Valentín Antonio De Gennaro</h1>
-
-<h3 align="center">🎓 Estudiante de DAM · CEACFP Valencia</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=👋+Hola,+soy+Valentín+Antonio+De+Gennaro;🎓+Estudiante+de+DAM+en+CEACFP+Valencia;🚀+Desarrollador+Backend+y+Amante+de+Linux;🌌+Que+la+Fuerza+te+acompañe" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://valentindg.com"><img src="https://img.shields.io/badge/Web-valentindg.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -17,7 +19,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en CEACFP Valencia, España. Me apasiona construir aplicaciones web funcionales y explorar el mundo de la **inteligencia artificial** y los **agentes autónomos** como hobby. Actualmente aprendiendo **PHP** en el ciclo y experimentando con modelos locales de IA usando **Ollama**. Si quieres ponerte en contacto, puedes hacerlo a través de mi [portafolio](https://portafolio.valentindg.com).
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en CEACFP Valencia, España. Me apasiona construir aplicaciones web funcionales y explorar el mundo de la **inteligencia artificial** y los **agentes autónomos**. Actualmente experimentando con **PHP** y modelos locales de IA usando **Ollama**. Trabajo mis entornos de desarrollo principalmente sobre distribuciones de **Linux (Ubuntu)**. 
+
+Si quieres ponerte en contacto, puedes hacerlo a través de mi [portafolio](https://portafolio.valentindg.com).
 
 ---
 
@@ -25,29 +29,34 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en CEACFP Valen
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Tinoprop](https://portafolio.valentindg.com) | Aplicación fullstack de gestión | PHP · MySQL |
-| [AdminViews](https://portafolio.valentindg.com) | Panel de administración con integración TMDB API | PHP · MySQL · API REST |
-| [CAS Real State](https://portafolio.valentindg.com) | Web inmobiliaria estática | HTML · CSS · JS |
+| [Tinoprop](https://portafolio.valentindg.com) | Aplicación fullstack CRM para gestión inmobiliaria | PHP · MySQL |
+| [Satori](https://portafolio.valentindg.com) | Motor de búsqueda web personalizado con web scraper | Python · PHP · MySQL |
+| [AdminViews](https://portafolio.valentindg.com) | App web para llevar un registro de series y películas | PHP · MySQL · API REST |
 | [RoomManager](https://portafolio.valentindg.com) | App de gestión de habitaciones, pagos, gastos e inquilinos | PHP · MySQL |
 
 ---
 
 ## 🛠️ Lenguajes y tecnologías
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,js,linux,ubuntu&theme=dark&perline=8" alt="Mis Tecnologías" />
+  </a>
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas y Actividad
 
 <p align="center">
   <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
   <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi&langs_count=6" height="165" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake.svg">
+    <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
