@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner2.png" alt="Banner de Valentin Antonio de Gennaro" width="100%">
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=👋+Hola,+soy+Valentín+Antonio+De+Gennaro;🎓+Estudiante+de+DAM+en+CEACFP+Valencia;🚀+Desarrollador+Backend+y+Amante+de+Linux;🌌+Que+la+Fuerza+te+acompañe" alt="Typing SVG" />
