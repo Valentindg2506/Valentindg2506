@@ -40,7 +40,7 @@ Si quieres ponerte en contacto, puedes hacerlo a través de mi [portafolio](http
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,js,linux,ubuntu&theme=dark&perline=8" alt="Mis Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,js,linux,ubuntu,bootstrap,fastapi,md&theme=dark&perline=8" alt="Mis Tecnologías" />
   </a>
 </p>
 
