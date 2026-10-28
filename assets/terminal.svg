@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 376" width="1000" height="376" role="img" aria-label="Terminal: sobre mí">
+<style>
+.m { font-family: 'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace; font-size:14px; white-space:pre; }
+.f { font-family: Inter,'Segoe UI',Helvetica,Arial,sans-serif; }
+@keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+.cur { animation: blink 1s step-end infinite; }
+.c0{animation: rv0 0.40s steps(8) 0.60s forwards;} @keyframes rv0{to{transform:translateX(99px);opacity:1}}
+.c1{animation: rv1 0.25s steps(1) 1.35s forwards;} @keyframes rv1{to{transform:translateX(579px);opacity:1}}
+.c2{animation: rv2 0.78s steps(15) 1.75s forwards;} @keyframes rv2{to{transform:translateX(165px);opacity:1}}
+.c3{animation: rv3 0.25s steps(1) 2.88s forwards;} @keyframes rv3{to{transform:translateX(475px);opacity:1}}
+.c4{animation: rv4 0.25s steps(1) 3.28s forwards;} @keyframes rv4{to{transform:translateX(513px);opacity:1}}
+.c5{animation: rv5 0.25s steps(1) 3.68s forwards;} @keyframes rv5{to{transform:translateX(503px);opacity:1}}
+.c6{animation: rv6 0.90s steps(17) 4.08s forwards;} @keyframes rv6{to{transform:translateX(184px);opacity:1}}
+.c7{animation: rv7 0.25s steps(1) 5.33s forwards;} @keyframes rv7{to{transform:translateX(626px);opacity:1}}
+.c8{animation: rv8 0.84s steps(16) 5.73s forwards;} @keyframes rv8{to{transform:translateX(174px);opacity:1}}
+.c9{animation: rv9 0.25s steps(1) 6.92s forwards;} @keyframes rv9{to{transform:translateX(673px);opacity:1}}
+.clast{animation: rvl .1s 7.32s forwards;} @keyframes rvl{to{transform:translateX(80px);}}
+</style>
+<clipPath id="win"><rect x="1" y="1" width="998" height="374" rx="16"/></clipPath>
+<rect x="1" y="1" width="998" height="374" rx="16" fill="#16151b" stroke="#2a2830"/>
+<g clip-path="url(#win)">
+<rect x="1" y="1" width="998" height="44" fill="#1f1d25"/>
+<circle cx="26" cy="22" r="6" fill="#ff5f57"/><circle cx="46" cy="22" r="6" fill="#febc2e"/><circle cx="66" cy="22" r="6" fill="#28c840"/>
+<text x="500.0" y="27" text-anchor="middle" class="f" font-size="13" fill="#8a8694">valentin@valencia: ~/portfolio — zsh</text>
+<text x="40" y="92" class="m"><tspan fill="#ed533e">❯ </tspan><tspan fill="#e7e5ea">whoami</tspan></text>
+<rect class="c0" x="36" y="74" width="954" height="24" fill="#16151b"/>
+<text x="40" y="119" class="m"><tspan fill="#e7e5ea">valentin</tspan><tspan fill="#a19dab"> — desarrollador web full stack · 2º DAM · Valencia</tspan></text>
+<rect class="c1" x="36" y="101" width="954" height="24" fill="#16151b"/>
+<text x="40" y="146" class="m"><tspan fill="#ed533e">❯ </tspan><tspan fill="#e7e5ea">cat stack.txt</tspan></text>
+<rect class="c2" x="36" y="128" width="954" height="24" fill="#16151b"/>
+<text x="40" y="173" class="m"><tspan fill="#f47a66">backend   </tspan><tspan fill="#e7e5ea">PHP · Laravel · Python · Flask · MySQL</tspan></text>
+<rect class="c3" x="36" y="155" width="954" height="24" fill="#16151b"/>
+<text x="40" y="200" class="m"><tspan fill="#f47a66">frontend  </tspan><tspan fill="#e7e5ea">JavaScript · TypeScript · React · Tailwind</tspan></text>
+<rect class="c4" x="36" y="182" width="954" height="24" fill="#16151b"/>
+<text x="40" y="227" class="m"><tspan fill="#f47a66">entorno   </tspan><tspan fill="#e7e5ea">Linux · Git · Docker · Apache · Hostinger</tspan></text>
+<rect class="c5" x="36" y="209" width="954" height="24" fill="#16151b"/>
+<text x="40" y="254" class="m"><tspan fill="#ed533e">❯ </tspan><tspan fill="#e7e5ea">ls experiencia/</tspan></text>
+<rect class="c6" x="36" y="236" width="954" height="24" fill="#16151b"/>
+<text x="40" y="281" class="m"><tspan fill="#7cc4ff">tuateam_practicas_2026/   </tspan><tspan fill="#7cc4ff">10_apps_en_produccion/   </tspan><tspan fill="#7cc4ff">38_proyectos/</tspan></text>
+<rect class="c7" x="36" y="263" width="954" height="24" fill="#16151b"/>
+<text x="40" y="308" class="m"><tspan fill="#ed533e">❯ </tspan><tspan fill="#e7e5ea">echo $OBJETIVO</tspan></text>
+<rect class="c8" x="36" y="290" width="954" height="24" fill="#16151b"/>
+<text x="40" y="335" class="m"><tspan fill="#3ddc97">&quot;Prácticas FCT en Valencia: aprender rápido y aportar desde el día 1&quot;</tspan></text>
+<rect class="c9" x="36" y="317" width="954" height="24" fill="#16151b"/>
+<text x="40" y="362" class="m"><tspan fill="#ed533e">❯ </tspan><tspan class="cur" fill="#e7e5ea">▌</tspan></text>
+<rect class="clast" x="36" y="344" width="60" height="24" fill="#16151b"/>
+</g>
+<rect x="1" y="1" width="998" height="374" rx="16" fill="none" stroke="#2a2830"/>
+</svg>
