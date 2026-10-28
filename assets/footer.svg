@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Gracias por pasar">
+  <style>
+    .f { font-family: Inter, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    .w1 { animation: wave 14s linear infinite; }
+    .w2 { animation: wave 9s linear infinite; }
+    .w3 { animation: wave 6s linear infinite; }
+    @keyframes fade { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+    .t { animation: fade 3s ease-in-out infinite; }
+  </style>
+  <defs>
+    <clipPath id="c"><rect width="1200" height="160" rx="22"/></clipPath>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ed533e"/><stop offset="1" stop-color="#f47a66"/></linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="160" fill="#121116"/>
+    <g class="w1" opacity=".35"><path d="M0 92 C150 62 300 122 450 92 S750 62 900 92 S1050 122 1200 92 C1350 62 1500 122 1650 92 S1950 62 2100 92 S2250 122 2400 92 V160 H0 Z" fill="url(#g)"/></g>
+    <g class="w2" opacity=".55"><path d="M0 108 C200 84 400 132 600 108 S1000 84 1200 108 C1400 84 1600 132 1800 108 S2200 84 2400 108 V160 H0 Z" fill="url(#g)"/></g>
+    <g class="w3"><path d="M0 126 C100 114 200 138 300 126 S500 114 600 126 S800 138 900 126 S1100 114 1200 126 C1300 114 1400 138 1500 126 S1700 114 1800 126 S2000 138 2100 126 S2300 114 2400 126 V160 H0 Z" fill="#ed533e"/></g>
+    <text class="f t" x="600" y="56" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">Gracias por pasar · ¡Hablemos!</text>
+  </g>
+</svg>
