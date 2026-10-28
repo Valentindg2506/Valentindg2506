@@ -125,7 +125,7 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 ### Actividad
 
 <div align="center">
-  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E" height="160" alt="Estadísticas de GitHub"/>
+  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,contribs&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E" height="160" alt="Estadísticas de GitHub"/>
   <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E" height="160" alt="Lenguajes más usados"/>
 </div>
 
