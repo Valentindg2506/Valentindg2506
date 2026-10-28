@@ -1,158 +1,141 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=👋+Hola,+soy+Valentín+Antonio+De+Gennaro;🎓+Estudiante+de+2º+DAM;💻+Backend+%26+Full+Stack+Developer;🚀+Construyendo+productos+reales;🐧+Linux+%7C+PHP+%7C+Python+%7C+MySQL" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://valentindg.com">
-    <img src="https://img.shields.io/badge/Web-valentindg.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://cv.valentindg.com">
-    <img src="https://img.shields.io/badge/CV-cv.valentindg.com-22C55E?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-  </a>
-  <a href="https://portafolio.valentindg.com">
-    <img src="https://img.shields.io/badge/Portafolio-portafolio.valentindg.com-F97316?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/valentin-antonio-de-gennaro">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=60&lines=Valent%C3%ADn+Antonio+De+Gennaro;Desarrollador+web+full+stack;Estudiante+de+2%C2%BA+de+DAM+en+Valencia" alt="Valentín Antonio De Gennaro · Desarrollador web full stack" />
 
----
+**Desarrollo aplicaciones web de principio a fin: base de datos, backend, interfaz y despliegue.**<br>
+Me interesa construir herramientas que resuelvan problemas reales y que la gente use cada día.
 
-## 👨‍💻 Sobre mí
+<br>
 
-Soy estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en CEACFP Valencia.
+<a href="https://portafolio.valentindg.com"><img src="https://img.shields.io/badge/Portafolio-38_proyectos-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
+<a href="https://cv.valentindg.com"><img src="https://img.shields.io/badge/CV-Descargar_PDF-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+<a href="https://www.linkedin.com/in/valentindg/"><img src="https://img.shields.io/badge/LinkedIn-valentindg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:valentindegennaro@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Me gusta aprender construyendo aplicaciones que solucionen problemas reales, especialmente en el desarrollo **Backend y Full Stack**.
+<br><br>
 
-Actualmente trabajo principalmente con **PHP, Python, MySQL y JavaScript**, utilizando **Linux/Ubuntu** como entorno de desarrollo.
+<img src="https://img.shields.io/badge/📍_Valencia,_España-30363D?style=flat-square" alt="Valencia"/>
+<img src="https://img.shields.io/badge/🎓_2º_DAM_·_CEAC_FP-30363D?style=flat-square" alt="2º DAM"/>
+<img src="https://img.shields.io/badge/✅_Disponible_para_prácticas_FCT-238636?style=flat-square" alt="Disponible para prácticas"/>
 
-También estoy explorando el desarrollo de aplicaciones con **inteligencia artificial**, modelos locales y automatización.
-
-Mi objetivo es seguir pasando de proyectos académicos a **productos reales, mantenibles y preparados para usuarios reales**.
+</div>
 
 ---
 
-## 🚀 Proyecto principal
+### Sobre mí
 
-### 🏢 TinoProp
-
-**TinoProp** es un CRM para la gestión de inmobiliarias desarrollado para centralizar clientes, propiedades, tareas y operaciones de una agencia inmobiliaria.
-
-El proyecto nació como una aplicación propia y ha ido evolucionando hacia un producto pensado para ser utilizado por **inmobiliarias reales**.
-
-**Incluye actualmente:**
-
-* 👥 Gestión de clientes y contactos
-* 🏠 Gestión de propiedades
-* 📋 CRM con diferentes estados
-* 📅 Tareas y calendario
-* 📊 Paneles y estadísticas
-* 👤 Gestión de usuarios
-* 🖼️ Gestión de imágenes
-* ⚙️ Configuración personalizada
-* 🔐 Autenticación y permisos
-* 📱 Interfaz adaptable
-* 🛡️ Gestión de privacidad y aspectos legales
-
-**Tecnologías:** PHP · MySQL · JavaScript · HTML · CSS
-
-👉 [Ver TinoProp en GitHub](https://github.com/Valentindg2506/Tinoprop)
-
-👉 [Ver proyecto](https://tinoprop.es)
+- 💼 He hecho **prácticas como desarrollador de software en Tuateam** (abril–junio 2026), creando herramientas internas en **Python y Flask**: automatización de la recogida de datos, una extensión de Chrome y un validador de datos de contacto.
+- 🏗️ Fuera de clase diseño, programo y despliego mis propias aplicaciones. Varias están **en producción con usuarios reales**.
+- 🔐 Me gusta entender lo que hay debajo: he implementado a mano **autenticación JWT, 2FA TOTP, routers y arquitecturas multi-tenant** en PHP.
+- 🤖 Exploro la **IA local** (Ollama) aplicada al desarrollo y la uso como apoyo, sin dejar de entender y revisar cada línea.
 
 ---
 
-## 💻 Otros proyectos
+### Proyectos destacados
 
-| Proyecto           | Descripción                                                            | Tecnologías            |
-| ------------------ | ---------------------------------------------------------------------- | ---------------------- |
-| 🔎 **Satori**      | Motor de búsqueda web con scraping y procesamiento de resultados       | Python · PHP · MySQL   |
-| 🎬 **AdminViews**  | Aplicación para gestionar y realizar seguimiento de series y películas | PHP · MySQL · API REST |
-| 🏠 **RoomManager** | Gestión de habitaciones, inquilinos, pagos y gastos                    | PHP · MySQL            |
-| 🍺 **BirraFinder** | Aplicación web relacionada con búsqueda y consulta de cervezas         | PHP · MySQL            |
-| 🤖 **LocalCoder**  | Experimentación con herramientas de IA local                           | Python · IA            |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://portafolio.valentindg.com/proyectos/tinoprop-crm.html"><img src="https://portafolio.valentindg.com/assets/images/optimized/tinoprop-card.webp" alt="TinoProp CRM" width="100%"/></a>
+
+#### 🏢 TinoProp CRM
+CRM inmobiliario **multi-tenant**: varias inmobiliarias comparten instalación viendo solo sus datos. 19 módulos, 7 roles jerárquicos, pipeline Kanban, matching demanda–oferta e i18n. **41 versiones.**
+
+`PHP 8` `MySQL` `Chart.js` `Multi-tenant`
+
+[**Demo**](https://tinoprop.com) · [Código](https://github.com/Valentindg2506/Tinoprop) · [Caso de estudio](https://portafolio.valentindg.com/proyectos/tinoprop-crm.html)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://portafolio.valentindg.com/proyectos/roommanager.html"><img src="https://portafolio.valentindg.com/assets/images/optimized/rm-card.webp" alt="RoomManager" width="100%"/></a>
+
+#### 🏠 RoomManager
+Gestión de alquiler por habitaciones: contratos y recibos en PDF, liquidaciones a propietarios con **firma digital**, suscripciones con **Stripe** y API REST de 33 endpoints.
+
+`PHP` `MySQL` `Stripe` `API REST`
+
+[**Demo**](https://roommanager.tinoprop.com) · [Caso de estudio](https://portafolio.valentindg.com/proyectos/roommanager.html) · <sub>código privado</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://portafolio.valentindg.com/proyectos/inmocrm.html"><img src="https://portafolio.valentindg.com/assets/images/optimized/crm-card.webp" alt="InmoCRM" width="100%"/></a>
+
+#### 📇 InmoCRM
+CRM inmobiliario con **2FA TOTP implementado desde cero**, motor de matching entre demandas y cartera, facturación y auditoría de actividad. 14 módulos y 23 tablas.
+
+`PHP` `MySQL` `JavaScript` `TOTP`
+
+[Caso de estudio](https://portafolio.valentindg.com/proyectos/inmocrm.html) · <sub>código privado</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://portafolio.valentindg.com/proyectos/pint-league.html"><img src="https://portafolio.valentindg.com/assets/images/pint-league.svg" alt="Pint League" width="100%"/></a>
+
+#### ⚡ Pint League · PWA en producción
+App social con rankings, logros y notificaciones push, reescrita en **PHP sin framework**: router, autenticación JWT con verificación de firma en tiempo constante y servicio Web Push hechos a mano.
+
+`PHP` `JWT` `Web Push` `PWA`
+
+[Caso de estudio](https://portafolio.valentindg.com/proyectos/pint-league.html) · <sub>código privado</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Más proyectos con código público</b></summary>
+<br>
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**LocalCoder**](https://github.com/Valentindg2506/LocalCoder) | IDE de escritorio con asistente de IA 100 % local: editor Monaco, chat en streaming y escáner de hardware que recomienda modelo | Rust · Tauri 2 · React · TypeScript · Ollama |
+| [**BookingApp**](https://github.com/Valentindg2506/BookingApp) | Reservas conectadas a Meta Lead Ads: crea la sala de Google Meet, confirma por WhatsApp y programa recordatorios con cron | PHP · MySQL · Twilio · Webhooks |
+| [**Eurcontroller**](https://github.com/Valentindg2506/Eurcontroller) | PWA de finanzas personales con cola offline que sincroniza sola al recuperar la conexión | PHP · MySQL · PWA · Cache API |
+| [**AdminViews**](https://github.com/Valentindg2506/AdminViews) | Gestor de series y películas con autocompletado desde la API de TMDB · [demo](https://adminviews.valentindg.com) | PHP · MySQL · API REST |
+
+👉 Todos los proyectos, con su problema, arquitectura y decisiones técnicas, en el **[portafolio](https://portafolio.valentindg.com)**.
+
+</details>
 
 ---
 
-## 🧠 Tecnologías
-
-### Backend
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,mysql,fastapi" />
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,mysql&perline=10" alt="PHP, Laravel, Python, Flask, MySQL"/>
 </p>
-
-### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap&perline=10" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind, Bootstrap"/>
 </p>
-
-### Herramientas y entorno
-
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,markdown" />
-</p>
-
-### Actualmente aprendiendo
-
-* 🟣 Java
-* 🟢 Laravel
-* 🐧 Administración de Linux
-* 🤖 Inteligencia artificial y modelos locales
-* 🏗️ Arquitectura y buenas prácticas de desarrollo
-
----
-
-## 🎓 Formación
-
-**Desarrollo de Aplicaciones Multiplataforma (DAM)**
-CEACFP Valencia · España
-
-Actualmente cursando **2º curso**.
-
-Durante el ciclo estoy trabajando con:
-
-* Programación
-* Bases de datos
-* Desarrollo de interfaces
-* Acceso a datos
-* Programación multimedia
-* Sistemas informáticos
-* Lenguajes de marcas
-* Entornos de desarrollo
-* Proyecto intermodular
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi&langs_count=6" height="165" alt="Lenguajes más utilizados" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake.svg">
-    <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <b>Entorno y despliegue</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&perline=10" alt="Linux, Git, GitHub, Docker, VS Code"/>
 </p>
 
 ---
 
-## 📫 Contacto
+### Actividad
 
-Si querés conocer más sobre mis proyectos o contactar conmigo:
+<div align="center">
+  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E" height="160" alt="Estadísticas de GitHub"/>
+  <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E" height="160" alt="Lenguajes más usados"/>
+</div>
 
-<p align="center">
-  <a href="https://portafolio.valentindg.com">🌐 Portafolio</a> ·
-  <a href="https://cv.valentindg.com">📄 CV</a> ·
-  <a href="https://linkedin.com/in/valentin-antonio-de-gennaro">💼 LinkedIn</a>
-</p>
+---
 
-<p align="center">
-  <i>Construyendo, aprendiendo y mejorando un proyecto a la vez.</i>
-</p>
+<div align="center">
+
+**¿Tienes una oportunidad de prácticas o un proyecto en mente?**<br>
+Escríbeme a **[valentindegennaro@gmail.com](mailto:valentindegennaro@gmail.com)** o por **[LinkedIn](https://www.linkedin.com/in/valentindg/)**.
+
+<sub>Web personal: <a href="https://valentindg.com">valentindg.com</a></sub>
+
+</div>
