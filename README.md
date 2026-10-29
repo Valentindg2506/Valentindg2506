@@ -108,11 +108,8 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 ### 📈 Actividad
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-coral.svg" width="100%" alt="Mis contribuciones del último año en 3D, con lenguajes y tipo de actividad"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=Valentindg2506&hide_total_contributions=true&hide_border=true&background=121116&ring=ed533e&fire=ed533e&currStrNum=ffffff&sideNums=ffffff&currStrLabel=ed533e&sideLabels=c9c6d0&dates=8a8694&stroke=2a2830&border_radius=14&locale=es" alt="Racha de contribuciones"/>
+  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi&langs_count=6" height="165" alt="Lenguajes más utilizados" />
 </p>
 
 <br>
