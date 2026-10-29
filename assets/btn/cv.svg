@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="42" viewBox="0 0 85 42" role="img" aria-label="CV">
+<rect x="0.75" y="0.75" width="83.5" height="40.5" rx="12" fill="#1b1a20" stroke="#2e2c35" stroke-width="1.5"/>
+<g transform="translate(16 11)"><path d="M5 2h7l4 4v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 4 17V3.5A1.5 1.5 0 0 1 5.5 2z" fill="none" stroke="#ed533e" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 2v4h4M7 10h6M7 13.5h6" fill="none" stroke="#ed533e" stroke-width="1.8" stroke-linecap="round"/></g>
+<text x="46" y="26.5" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="650" fill="#ffffff" letter-spacing=".2">CV</text>
+</svg>
