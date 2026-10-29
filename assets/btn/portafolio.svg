@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="42" viewBox="0 0 135 42" role="img" aria-label="Portafolio">
+<rect x="0.75" y="0.75" width="133.5" height="40.5" rx="12" fill="#ed533e" stroke="#ed533e" stroke-width="1.5"/>
+<g transform="translate(16 11)"><rect x="2" y="5" width="16" height="12" rx="2.5" fill="none" stroke="#ffffff" stroke-width="1.8"/><path d="M7 5V3.6A1.6 1.6 0 0 1 8.6 2h2.8A1.6 1.6 0 0 1 13 3.6V5M2 10h16" fill="none" stroke="#ffffff" stroke-width="1.8"/></g>
+<text x="46" y="26.5" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="650" fill="#ffffff" letter-spacing=".2">Portafolio</text>
+</svg>
