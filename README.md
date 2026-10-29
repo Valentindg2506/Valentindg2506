@@ -4,13 +4,13 @@
 
 <br>
 
-<a href="https://portafolio.valentindg.com"><img src="https://img.shields.io/badge/Portafolio-ed533e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
-<a href="https://cv.valentindg.com"><img src="https://img.shields.io/badge/CV-1b1a20?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
-<a href="https://www.linkedin.com/in/valentindg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:valentindegennaro@gmail.com"><img src="https://img.shields.io/badge/Email-347b65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://valentindg.com"><img src="https://img.shields.io/badge/valentindg.com-121116?style=for-the-badge" alt="Web personal"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=Valentindg2506&label=visitas&color=ed533e&style=flat-square" alt="Visitas al perfil"/>
+<p>
+<a href="https://portafolio.valentindg.com"><img src="assets/btn/portafolio.svg" height="42" alt="Portafolio"/></a>&nbsp;
+<a href="https://cv.valentindg.com"><img src="assets/btn/cv.svg" height="42" alt="CV"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/valentindg/"><img src="assets/btn/linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:valentindegennaro@gmail.com"><img src="assets/btn/email.svg" height="42" alt="Email"/></a>&nbsp;
+<a href="https://valentindg.com"><img src="assets/btn/web.svg" height="42" alt="valentindg.com"/></a>
+</p>
 
 </div>
 
@@ -112,6 +112,18 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
   <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi&langs_count=6" height="165" alt="Lenguajes más utilizados" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Valentindg2506&theme=holi&hide_border=true&locale=es" height="165" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-light.svg">
+    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-dark.svg" width="100%">
+  </picture>
+</p>
+
 <br>
 
 <div align="center">
@@ -119,5 +131,9 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 <a href="mailto:valentindegennaro@gmail.com"><img src="assets/footer.svg" width="100%" alt="Gracias por pasar · ¡Hablemos! valentindegennaro@gmail.com"/></a>
 
 <sub>¿Prácticas o un proyecto en mente? Escríbeme a <a href="mailto:valentindegennaro@gmail.com">valentindegennaro@gmail.com</a> o por <a href="https://www.linkedin.com/in/valentindg/">LinkedIn</a>.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Valentindg2506&label=visitas%20al%20perfil&color=ed533e&style=flat-square" alt="Visitas al perfil"/>
 
 </div>
