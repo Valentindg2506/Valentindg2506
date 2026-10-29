@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-<img src="assets/terminal.svg" width="88%" alt="Sobre mí: desarrollador web full stack, 2º de DAM en Valencia. Prácticas en Tuateam con Python y Flask. Stack: PHP, Laravel, Python, Flask, MySQL, JavaScript, TypeScript, React, Tailwind, Linux, Git y Docker. Busco prácticas FCT en Valencia."/>
+<img src="assets/terminal.svg" width="88%" alt="Sobre mí: convierto procesos del día a día en herramientas útiles. Prácticas en Tuateam con Python y Flask, CFGS de DAM en CEAC. Me interesan el backend, las APIs, la IA local y la automatización. Busco prácticas FCT en Valencia."/>
 </div>
 
 <br>
@@ -108,24 +108,11 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 ### 📈 Actividad
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Contribuciones en 3D"/>
+  <img src="profile-3d-contrib/profile-coral.svg" width="100%" alt="Mis contribuciones del último año en 3D, con lenguajes y tipo de actividad"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,contribs&hide_border=true&bg_color=121116&title_color=ed533e&icon_color=ed533e&text_color=c9c6d0&border_radius=14" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Valentindg2506&hide_border=true&background=121116&ring=ed533e&fire=ed533e&currStrNum=ffffff&sideNums=ffffff&currStrLabel=ed533e&sideLabels=c9c6d0&dates=8a8694&stroke=2a2830&border_radius=14&locale=es" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&langs_count=8&hide_border=true&bg_color=121116&title_color=ed533e&text_color=c9c6d0&border_radius=14" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-light.svg">
-    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Valentindg2506/Valentindg2506/output/snake-dark.svg" width="100%">
-  </picture>
+  <img height="150" src="https://streak-stats.demolab.com?user=Valentindg2506&hide_total_contributions=true&hide_border=true&background=121116&ring=ed533e&fire=ed533e&currStrNum=ffffff&sideNums=ffffff&currStrLabel=ed533e&sideLabels=c9c6d0&dates=8a8694&stroke=2a2830&border_radius=14&locale=es" alt="Racha de contribuciones"/>
 </p>
 
 <br>
