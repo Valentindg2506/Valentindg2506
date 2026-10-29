@@ -108,7 +108,7 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 ### 📈 Actividad
 
 <p align="center">
-  <img src="estadisticas-adaie708a-valentins-projects-32405183.vercel.app&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://estadisticas-indol.vercel.app/api?username=Valentindg2506&show_icons=true&include_all_commits=true&count_private=true&theme=holi" height="165" alt="Estadísticas de GitHub" />
   <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=Valentindg2506&layout=compact&theme=holi&langs_count=6" height="165" alt="Lenguajes más utilizados" />
 </p>
 
