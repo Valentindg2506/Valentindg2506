@@ -1,0 +1,19 @@
+{
+  "type": "normal",
+  "fileName": "profile-coral.svg",
+  "backgroundColor": "#121116",
+  "foregroundColor": "#e7e5ea",
+  "strongColor": "#ed533e",
+  "weakColor": "#8a8694",
+  "radarColor": "#ed533e",
+  "growingAnimation": true,
+  "contribColors": ["#26232c", "#5c2a24", "#8e3a2f", "#c4473a", "#ed533e"],
+  "l10n": {
+    "commit": "Commits",
+    "repo": "Repositorios",
+    "review": "Revisiones",
+    "pullreq": "Pull requests",
+    "issue": "Issues",
+    "contrib": "contribuciones este año"
+  }
+}
