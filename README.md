@@ -35,7 +35,7 @@ CRM inmobiliario **multi-tenant**: varias inmobiliarias comparten instalación v
 
 `PHP 8` `MySQL` `Chart.js` `Multi-tenant`
 
-[**Demo**](https://tinoprop.com) · [Código](https://github.com/Valentindg2506/Tinoprop) · [Caso de estudio](https://portafolio.valentindg.com/proyectos/tinoprop-crm.html)
+[Código](https://github.com/Valentindg2506/Tinoprop) · [Caso de estudio](https://portafolio.valentindg.com/proyectos/tinoprop-crm.html)
 
 </td>
 <td width="50%" valign="top">
@@ -47,7 +47,7 @@ Gestión de alquiler por habitaciones: contratos y recibos en PDF, liquidaciones
 
 `PHP` `MySQL` `Stripe` `API REST`
 
-[**Demo**](https://roommanager.tinoprop.com) · [Caso de estudio](https://portafolio.valentindg.com/proyectos/roommanager.html) · <sub>🔒 código privado</sub>
+[Caso de estudio](https://portafolio.valentindg.com/proyectos/roommanager.html) · <sub>🔒 código privado</sub>
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ App social con rankings, logros y notificaciones push, reescrita en **PHP sin fr
 | [**LocalCoder**](https://github.com/Valentindg2506/LocalCoder) | IDE de escritorio con asistente de IA 100 % local: editor Monaco, chat en streaming y escáner de hardware que recomienda modelo | Rust · Tauri 2 · React · TypeScript · Ollama |
 | [**BookingApp**](https://github.com/Valentindg2506/BookingApp) | Reservas conectadas a Meta Lead Ads: crea la sala de Google Meet, confirma por WhatsApp y programa recordatorios con cron | PHP · MySQL · Twilio · Webhooks |
 | [**Eurcontroller**](https://github.com/Valentindg2506/Eurcontroller) | PWA de finanzas personales con cola offline que sincroniza sola al recuperar la conexión | PHP · MySQL · PWA · Cache API |
-| [**AdminViews**](https://github.com/Valentindg2506/AdminViews) | Gestor de series y películas con autocompletado desde la API de TMDB · [demo](https://adminviews.valentindg.com) | PHP · MySQL · API REST |
+| [**AdminViews**](https://github.com/Valentindg2506/AdminViews) | Gestor de series y películas con autocompletado desde la API de TMDB | PHP · MySQL · API REST |
 
 👉 Los 38 proyectos, con su problema, arquitectura y decisiones técnicas, en el **[portafolio](https://portafolio.valentindg.com)**.
 
